@@ -4,9 +4,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 	<a href="https://twitter.com/mohammad_abid83" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohammad_abid83" height="30" width="40" /></a>
-	<a href="https://linkedin.com/in/mdabidpro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdabidpro" height="30" width="40" /></a>
 	<a href="https://stackoverflow.com/users/12083215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12083215" height="30" width="40" /></a>
-	<a href="https://fb.com/md.abid.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="md.abid.dev" height="30" width="40" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  
